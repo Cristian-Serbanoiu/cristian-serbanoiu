@@ -38,7 +38,7 @@
 
 ---
 
-### 🎮 Side Project – [PKBCRAFT](https://pkbcraft.com)  
+### 🎮 Side Project – [PKBCRAFT](https://pkbcraft.ro)  
 Built a Minecraft server from scratch:
 - Game logic • economy • uptime automation  
 - Subscription monetization • backend testing  
