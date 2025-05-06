@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Cypress-Quality%20Assurance-0abde3?style=for-the-badge&logo=cypress&logoColor=white" style="border-radius: 12px;" />
   <img src="https://img.shields.io/badge/JavaScript-%F0%9F%92%BB-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius: 12px; margin-left: 12px;" />
   <img src="https://img.shields.io/badge/TypeScript-%E2%9C%94-007acc?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius: 12px; margin-left: 12px;" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%E2%9C%94-2088ff?style=for-the-badge&logo=github-actions&logoColor=white" style="border-radius: 12px; margin-left: 12px;" />
 </p>
 
 
